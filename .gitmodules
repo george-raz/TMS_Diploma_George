@@ -4,3 +4,6 @@
 [submodule "03_UI"]
 	path = 03_UI
 	url = https://github.com/george-raz/final_ui.git
+[submodule "01_UNIT"]
+	path = 01_UNIT
+	url = https://github.com/george-raz/final_unit.git

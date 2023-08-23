@@ -1,0 +1,12 @@
+01_UNIT/node_modules
+
+02_API/node_modules
+
+03_UI/node_modules
+03_UI/allure-results
+03_UI/allure-report
+03_UI/playwright-report
+03_UI/test-results
+03_UI/test-results/
+03_UI/playwright-report/
+03_UI/playwright/.cache/
